@@ -1,6 +1,6 @@
-# Material Dashboard Built with React and Redux
+# Material Dashboard created with React, Redux, & Material-UI
 
-## Setup 
+## Setup
 
 1. Run `npm install` to install dependencies.
-2. Run `npm run start` to launch project locally.
+2. Run `npm run start` to run in local`.
